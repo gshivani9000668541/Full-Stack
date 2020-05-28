@@ -1,0 +1,243 @@
+    2  pwd
+    3  ls
+    4  mkdir FullStackDec
+    5  ls
+    6  cd Desktop
+    7  mkdir FullStack
+    8  ls
+    9  cd FullStack/
+   10  touch Full_Stack.txt
+   11  ls
+   12  echo "Full Stack Developer"
+   13  cat Full_Stack.txt
+   14  echo "Full Stack Developer" > Full_Stack.txt
+   15  cat Full_Stack.txt
+   16  echo "JavaScript" >> Full_Stack.txt
+   17  cat Full_Stack.txt
+   18  nano Full_Stack.txt
+   19  nan0 Data.txt
+   20  nano Data.txt
+   21  rm Data.txt
+   22  mkdir Git
+   23  ls
+   24  git init
+   25  git status
+   26  git add Full_Stack.txt
+   27  git config --global user.email 'gourishettyshivani2017@gmail.com'
+   28  git config --global user.email 'G.Shivani'
+   29  git config --global user.email gourishettyshivani2017@gmail.com
+   30  git config --global user.email 'G.Shivani
+   31  git config --global user.email G.Shivani
+   32  git command -m "First Commit"
+   33  git command -m "First Commit"
+   34  git --help
+   35  git commait -m "First Commit"
+   36  git commit -m "First Commit"
+   37  nano Full_Stack.txt
+   38  git status
+   39  git add Full_Stack.txt
+   40  git commit -m "Second Commit"
+   41  git log
+   42  nano Full_Stack.txt
+   43  git log
+   44  git status
+   45  mkdir Full-Stack
+   46  git remote add https://github.com/gshivani9000668541/FullStack/blob/master/README.md
+   47  git remote add Full-Stack https://github.com/gshivani9000668541/FullStack
+   48  git remote show
+   49  git remote -v
+   50  git pull Full-Stack master
+   51  git push -u Full-Stack 
+   52  git push -f --set-upstream Full-Stack master 
+   53  git push -f --set-upstream Full-Stack master 
+   54  remove -
+   55  git push -f --set-upstream FullStack master 
+   56  git remote -help
+   57  git remote remove Full-Stack
+   58  git remote remove show
+   59  git remote show
+   60  git remote -v
+   61  git remote add FullStack https://github.com/gshivani9000668541/FullStack
+   62  git remote show
+   63  git remote -v
+   64  git pull FullStack master
+   65  ls
+   66  git push --set-upstream FullStack master 
+   67  git push --set-upstream FullStack master 
+   68  git --version
+   69  pwd
+   70  ls
+   71  ls -a
+   72  cd Desktop
+   73  cd
+   74  cd Desktop
+   75  mkdir FullStackDev
+   76  ls
+   77  cd FullStackDev
+   78  cd ..
+   79  cd FullStackDev/
+   80   touch Full_Stack.txt
+   81   ls Full_Stack.txt
+   82  ls
+   83  echo "Full Stack Developer" > Full_Stack.txt
+   84   cat Full_Stack.txt
+   85  echo "JavaScript" >> Full_Stack.txt
+   86   cat Full_Stack.txt
+   87  nano Full_Stack.txt
+   88   cat Full_Stack.txt
+   89  nano data.txt
+   90   cat data.txt
+   91  ls
+   92  rm data.txt
+   93  ls
+   94  mkdir Git
+   95  ls
+   96  git init
+   97  git status
+   98  git add Full_Stack.txt
+   99  git status
+  100  git commit -m "First Commit"
+  101  git config --global user.email 'gourishettyshivani2017@gmail.com'
+  102  git config --global user.name 'G.Shivani'
+  103  git config user.email 
+  104  git config user.name 
+  105  git commit -m "First Commit"
+  106  nano Full_Stack.txt
+  107  git status
+  108  git add Full_Stack.txt
+  109  git commit -m "Second Commit"
+  110  git log
+  111  mkdir Full-Stack
+  112  ls
+  113  git remote -help
+  114  git remote add Full-Stack https://github.com/gshivani9000668541/Full-Stack
+  115  git remote show
+  116  git remote -v
+  117  git pull Full-Stack master
+  118  git push -u Full-Stack
+  119  git push --set-upstream Full-Stack master
+  120  git push -f --set-upstream Full-Stack master
+  121  history
+  122  history 121 > gitcommands.txt
+  123  history add gitcommands.txt
+  124  git add gitcommands.txt
+  125  git commit -m "GitCommands"
+  126  git pull Full-Stack
+  127  git push -u Full-Stack
+  128  git status
+  129  cd ..
+  130  cd ..
+  131  cd Full-Stack
+  132  cd ..
+  133  cd Desktop
+  134  cd ..
+  135  cd ..
+  136  cd desktop
+  137  cd Desktop
+  138  git status
+  139  git add Assignment1
+  140  cd ..
+  141  git status
+  142  git status
+  143  git add Assignment1/
+  144  git status
+  145  git coomit -m "Assignment1"
+  146  git commit -m "Assignment1"
+  147  git status
+  148  git pull Full-Stack master
+  149  git status
+  150  git status
+  151  git status
+  152  git rm lists.html
+  153  git rm "lists.html"
+  154  commit
+  155  git commit
+  156  git status
+  157  git rm " Assignment1.html"
+  158  git "links.html"
+  159  git rm "links.html"
+  160  git rm "imgnav.html"
+  161  git rm "images.html"
+  162  commit 
+  163  git commit
+  164  git status
+  165  git rm " Assignment1.html
+  166  git rm "Assignment1.html"
+  167  git rm "Assignment1.html"
+  168  git rm "Assignment1.html"
+  169  git rm "Assignment1.html"
+  170  git rm "Assignment1.html"
+  171  rm help
+  172  git rm help
+  173  git status
+  174  git --version
+  175  pwd
+  176  ls
+  177  ls -a
+  178  cd Desktop/
+  179  cd ..
+  180  mkdir FullStack
+  181  rmdir FullStack
+  182  cd Desktop
+  183  mkdir FullStack
+  184  rmdir FullStack
+  185  mkdir FullStackDev
+  186  ls
+  187  cd FullStackDev
+  188  cd ..
+  189  cd FullStackDev/
+  190  touch Full_Stack.txt
+  191  ls
+  192  cat Full_Stack.txt
+  193  echo "Full Stack Developer" >Full_Stack.txt
+  194  cat Full_Stack.txt
+  195  echo "HTML and CSS" >Full_Stack.txt
+  196  cat Full_Stack.txt
+  197  echo "JavaScript" >> Full_Stack.txt
+  198  cat Full_Stack.txt
+  199  gedit Full_Stack.txt
+  200  nano Full_Stack.txt
+  201  cat Full_Stack.txt
+  202  nano Data.txt
+  203  ls
+  204  rm help
+  205  rm --help
+  206  rm Data.txt
+  207  rm -f Data.txt
+  208  rmdir --help
+  209  mkdir Git
+  210  ls
+  211  git init
+  212  git status
+  213  git add Full_Stack.txt
+  214  git status
+  215  git commit -m "First Commit"
+  216  git config --global user.email 'gourishettyshivani2017@gmail.com'
+  217  git config --global user.email 'G.Shivani'
+  218  git config --global user.email gourishettyshivani2017@gmail.com
+  219* 
+  220  git config --global user.email 'G.Shivani'
+  221  git config  user.email 
+  222  git config --global user.email 'gourishettyshivani2017@gmail.com'
+  223  git config --global user.name 'G.Shivani'
+  224  git config user.email
+  225  git config user.name
+  226  nano Full_Stack.txt
+  227  git status
+  228  git add Full_Stack.txt
+  229  git commit -m "Second Commit"
+  230  git log
+  231  nano Full_Stack.txt
+  232  mkdir Full-Stack
+  233  ls
+  234  git remote -help
+  235  git remote add Full-Stack https://github.com/gshivani9000668541/Full-Stack
+  236  git remote show
+  237  git remote -v
+  238  git pull Full-Stack master
+  239  git push -u Full-Stack
+  240  git push --set-upstream Full-Stack master
+  241  git push -f --set-upstream Full-Stack master
+  242  git history
+  243  history
+  244  history 243 > gitcommands.txt
