@@ -1,0 +1,18 @@
+h3{
+    color:pink;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: rgb(197,58,58);
+    text-align: right;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif
+}
+div{
+    color: #AFCFBD;
+    text-align: left;
+    text-transform: lowercase;
+    font-size: 30px;
+}
