@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Registration Page</title>
+        <script>
+            function Validate()
+            {
+                var uspat=/[A-Z][A-Za-z0-9]{3,7}/;
+                var pwpat=/^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[^a-zA-Z0-9])(?!.*\s).{8,15}$/;
+                var user,pass;
+                user=document.getElementById("user").value;
+                pass=document.getElementById("pwd").value;
+               if((us.test(user))&&(pw.test(pass))){
+                    window.alert("Login Successful");
+                }
+                else{
+                    window.alert("Enter Valid Credentials");
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <div>
+            Username: <input type="text" id="user" placeholder="Enter Username"/><br>
+            Password: <input type="password" id="pwd" placeholder="Enter Password"/><br>
+            Full Name: <input type="text" placeholder="Enter Name"/><br>
+            Department: <input type="text" placeholder="Enter Department"/><br>
+            Address:<br> <textarea rows="10" cols="10" placeholder="Enter Address"></textarea><br>
+            <button type="button" onclick="Validate()">Submit</button>
+        </div>
+    </body>
+</html>

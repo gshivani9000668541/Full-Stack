@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+  <title>
+    Email RE
+  </title>
+  <script>
+    function check()
+     {
+      var pat = /^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$/;
+      var email = document.getElementById("em").value;
+      if (pat.test(email))
+       {
+        alert("valid");
+      }
+    else
+     {
+        alert("enter correct mail id");
+     }
+    }
+  </script>
+</head>
+<body>
+  <input type="text" id="em" placeholder="enter email id" />
+  <button type="button" onclick="check()">submit</button>
+</body>
+</html>

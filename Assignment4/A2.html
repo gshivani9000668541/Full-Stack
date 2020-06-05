@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mobile Number validation</title>
+        <script>
+            function validateNum()
+            {
+                var pat=/[6-9][0-9]{9}$|[0][6-9][0-9]{9}$|[+][9][1][6-9][0-9]{9}$/;
+                var num=document.getElementById("no").value;
+                if(phno.test(num))
+                {
+                    window.alert("Valid");
+                }
+                else
+                {
+                    window.alert("Enter Valid Number");
+                }   
+            }
+        </script>
+    </head>
+    <body>
+        Phone No: <input type="text" placeholder="Enter Number" id="no"/>
+        <br>
+        <button type="button"  onclick="validateNum() ">Validate</button>
+    </body>
+</html>
